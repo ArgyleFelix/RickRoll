@@ -1,0 +1,17 @@
+C:\Users\Hexa\Desktop\RickRoll\bin\Release\RickRoll.exe.config
+C:\Users\Hexa\Desktop\RickRoll\bin\Release\RickRoll.exe
+C:\Users\Hexa\Desktop\RickRoll\bin\Release\RickRoll.pdb
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\Window1.baml
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\MainWindow.g.cs
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\Window1.g.cs
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\App.g.cs
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll_MarkupCompile.cache
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll_MarkupCompile.lref
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\MainWindow.baml
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll.g.resources
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll.Properties.Resources.resources
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll.csproj.GenerateResource.cache
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll.csproj.CoreCompileInputs.cache
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll.exe
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll.pdb
+C:\Users\Hexa\Desktop\RickRoll\obj\Release\RickRoll.csproj.AssemblyReference.cache
